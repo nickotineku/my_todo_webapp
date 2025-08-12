@@ -10,7 +10,7 @@ single line string\
 with multiple line in code editor"
 
 now = time.strftime('%a %d-%b-%Y  %H:%M')
-print("This is test")
+print("The below here is current data and time")
 print(f'It is {now} ')
 
 while True:
